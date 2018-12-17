@@ -15,3 +15,9 @@ a {
 color: black;
 text-decoration: none;
 }
+
+body {
+  background-image: url(images/YourBackground.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
